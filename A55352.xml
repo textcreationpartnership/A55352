@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all the noble and warlick nations of Great Brittain</title>
+            <author>Ponteus, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55352</idno>
+            <idno type="STC">Wing P2804E</idno>
+            <idno type="STC">ESTC R219498</idno>
+            <idno type="EEBO-CITATION">99830965</idno>
+            <idno type="PROQUEST">99830965</idno>
+            <idno type="VID">35427</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35427)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2037:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all the noble and warlick nations of Great Brittain</title>
+                  <author>Ponteus, John.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The tenth edition.</edition>
+               </editionStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>A1r signed: John Puntæus; at foot of A1r: The tenth edition.</note>
+                  <note>Caption title at head of p. 2: The artificial balsamum for new wounds, cold aches, strains, bruises, gouts, &amp;c. As it was made publickly upon Smithfield place before many hundreds of good people the 20, and 21. of October, 1651. By John Puntæus, a chymical physician.</note>
+                  <note>Pages stained with some loss of print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine, Popular --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:35427:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>TO All the Noble and VVarlick Nation of Great <hi>Brittain.</hi>
+            </head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>I Have ſpent fourty years in a continual practice of Chy<g ref="char:EOLhyphen"/>mical Remedies, and the Rare and great Experiences I have ſhewed publickly in <hi>London</hi> in the Year, 1629, 1630, 1631. are yet in Remembrance with many thouſands of you; and the laſt Year, that I have again publickly pro<g ref="char:EOLhyphen"/>duc'd my ſelf in <hi>Smithfield</hi> open place, and to my thinking pleas'd many of you in my laſt Experiments; I cannot doubt of your acceptation of this Laſt Endeavour of mine, which is to requite ſo many Kindneſſes from you during Thirty Two years of mine abode in <hi>England,</hi> and chiefly from this Noble and Great City of <hi>London,</hi> theſe few Re<g ref="char:EOLhyphen"/>medies being truly good whereof I do preſent unto you the Compoſition in this Sheet will be a Monument of my Love to the Publick in after-Ages; (and chiefly to your valiant Souldiers, to whom theſe Remedies will be very uſeful and cheap) and ſhall (I hope) put in your Memory the Name of</p>
+            <closer>
+               <dateline>In <hi>London,</hi> 
+                  <date>April. 2. 1656.</date>
+               </dateline>
+               <signed>Your Loving Friend and Servant, <hi>John Puntaeus.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>The Tenth Edition.</p>
+            </postscript>
+         </div>
+         <div type="remedies">
+            <pb n="2" facs="tcp:35427:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>The Artificial <hi>Balſamum</hi> for new Wounds, cold Aches, Strains, Bruiſes, Gouts, &amp;c. As it was made publickly upon<hi>Smithfield</hi> place before many hundreds of good people <date>the 20, and 21. of October, 1651.</date>
+            </head>
+            <byline>By <hi>John Puntaeus,</hi> A Chymical Phyſician.</byline>
+            <div type="part">
+               <p>TAke of your Garden herbs of good and ſtrong ſmell, namely Sage red and green, Wormwood, Herbgraſſe, Penny real, Marjoram, Hyſſope, Neep, Motherwort, tanſey, time-ſavoury, as alſo Roſemary and Bay leafes, abrotanum, clare, balm, mince, &amp;c. as alſo of thoſe hot herbs of the fields, as mugwort, calamentum, white Horehunt, Origa<g ref="char:EOLhyphen"/>num, melilot, ſerpillum, camomil, germandry, Nettleſeed, Fennel ſeeds and leafs. <hi>Item,</hi> of the vulnerary or healing herbs rs the ſeaſon of the year will afford, as your Panacea or Clownſwort, Camphory of all ſorts, Bugula, Prunella, St. Johns wort, golden rode, perwinkle, Sanicle, Long plan<g ref="char:EOLhyphen"/>tain, &amp;c. take of as many ſorts as you can have, of each a like quantity, and put all being neatly cleans'd in half Sal<g ref="char:EOLhyphen"/>let Oyl, and half Linſeed Oyl, as much as conveniently you may gueſſe to be enough to hold your herbs, adding a quar<g ref="char:EOLhyphen"/>ter part of good Sack to it, meaning a quart of Sack, if your Oyl be 4. quarts, ſteep all together warm a whole night, and afterward boyl it till the Sack and moiſture of the Herbs be conſumed, then ſtrain it, and in the oyl ſo ſtrain'd for every pound of it adde two ounces of Beeſwax, clear Turpentine one ounce, black pitch, white pitch, Gum Ele<g ref="char:EOLhyphen"/>my, Roſen and Gooſe-greaſe, of each half an ounce, red Oyl of Turpentine, or colophony, jonce ſtorax liquid, Spick oyl Roſemary oyl, Amber oyl, ſpirit of Salt, of each a quarter of an ounce, Gumme ammoniacum firſt diſſolved with white wine about alſo a quarter of an ounce, and as much of Sagapenum and Opopanax, Benjamin ſtyrax calamites, myrrhe and aloes, of each a dram, and of the Oyles made
+<pb n="3" facs="tcp:35427:2"/>
+                  <!-- PDF PAGE 13 -->
+of the herbs aboveſaid, the more the better, within a quar<g ref="char:EOLhyphen"/>ter of an ounce for every pound of the former Sallet and Linſeed Oyles, obſerving to put to an account all the Oyle firſt and laſt, that you may be ſure to compaſſe your wax and gummes, and pitches to the weight of all the Liquors weighed together, as well as your Sallet and Linſeed Oyl, otherwiſe your Balm ſhould be too liquid and not healing enough; and if you put Chymical oyls of your herbs afore<g ref="char:EOLhyphen"/>ſaid ſo much the better, wax oyl, and brick oyl be alſo ex<g ref="char:EOLhyphen"/>cellent in it, a dram in the pound, Sugar-loaf and Honey I have often put in it, but it will not mix among the herbs afore the ſtraining two drams alſo of each in the pound; How to uſe this excellent Compoſition, the printed Pape ſheweth it.</p>
+            </div>
+            <div type="part">
+               <head>The Oyntments for Burnings and Scaldings, as it was tryed upon<hi>Smithfield</hi> place, <date>Octob. 17. 1651.</date>
+               </head>
+               <p>Take according to the time of the year more or leſſe of the herbs underwritten, as Nightſhades, <hi>Umbilicus veneris,</hi> hemlock, white and black poppy leafs, porcelan, Laituces, Sorrel of all ſorts, Henbane, green Colworts, Houſleek great and ſmall <hi>Laenticula palluſtris,</hi> Violet and Mallowes leafs, wild tanſey, <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ramonium,</hi> and <hi>Mandragora</hi> leafes if poſſible could be, to have all together green, and the like. <hi>Item,</hi> of the green inward ring of the Elder tree, of all a like quantity, and as much freſh butter as may ſerve to boyl eaſily the aforeſaid herbs, and a little <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in every pound of butter, with as much, or a little <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of an Aſſes dung; or for the want of it, take horſe dung, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyl all to<g ref="char:EOLhyphen"/>gether till your Butter be very green, which will be the ſoo<g ref="char:EOLhyphen"/>ner, if you bruiſe or chop your herbs very ſmall, boyl it till you ſee the moiſture of your herbs almoſt vapour'd, and ſtrain it in a napkin, adding for every pound of the ſaid Oyntment half a dram of ſalt of Lead, or <hi>Saccharum Saturnii</hi>
+                  <pb n="6" facs="tcp:35427:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 14 -->
+diſſolved in a little water and wine vineger, ſtirring it with a ſtick when your oyntment is almoſt cold, and ſo keep it cloſe to be us'd according to the printed Note.</p>
+            </div>
+            <div type="part">
+               <head>An Excellent Remedy for Sore Eyes.</head>
+               <p>Take Roche Allum, diſſolve it in plantain water upon an eaſie fire, and when it is cold, put the white of an Egge to it, and ſtir it much with three or four ſticks together, then filtre it by the brown paper, or at the leaſt ſtrain it ſoftly by a napkin, and then by evaporation in an earthen veſſel dry your allom ſoftly, and begin the ſame work again with eye-bright, or ſweet Fennel water; then when your Allom is ſo dryed again, adde as much Ireos or Oris in powder, and that powder ſo mixed when you have any occaſion to uſe it, ſteep it in Roſe-water; a dram of the powder is enough for two ounces of Roſe water, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>The Sear-cloath for Corns.</head>
+               <p>Take Gum Elemy, white Pitch, and black pitch, Bees<g ref="char:EOLhyphen"/>wax, Roſen and Turpentine, of each a like quantity, onely the black pitch may be doubled; melt all together upon a ſoft fire, and ſo make Sear-cloath according to Art.</p>
+            </div>
+            <div type="part">
+               <head>The Medicine for Tooth-Ache procee<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>old can<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</head>
+               <p>Take Angelica roots, Spaniſh Pelleto<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lov<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Gin<g ref="char:EOLhyphen"/>ger, of each a like quantity, and with the Muſcilage of Gum Tragagant diſſolv'd in Mugwort water, adding a little ſtarch, ma<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> paſte and paſtilles to hold upon the aking Teeth, &amp;c. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if the pain proceedeth from a hot cauſe with infl<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, then take the root of Henbane, ſlice it, and boyl it in wine Vineger, then ſtrain it, and hold in your mouth the ſaid vineger warm, and it will put you in admi<g ref="char:EOLhyphen"/>ration how quickly it will cure you; the ſeed of the ſame Henbane may be uſed alike<g ref="char:punc">▪</g> but the root is better.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
